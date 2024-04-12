@@ -1,3 +1,11 @@
+STEPS TO RUN:
+
+1) clone this repository
+2) run "npm -i"
+3) ng serve
+*** You are good to go. Happy Coding! ***
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
